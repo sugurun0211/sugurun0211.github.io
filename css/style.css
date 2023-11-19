@@ -84,6 +84,8 @@ nav {
 
 .skills-list {
   margin-left: 5px;
+  padding-left: 0;
+  list-style: none;
 }
 
 .skills-box {
@@ -106,6 +108,7 @@ nav {
 
 .slider {
   margin: 10px auto;
+  padding-left: 0;
 }
 
 .slider-img {
@@ -180,7 +183,7 @@ footer {
   }
 
   .slider-img {
-    max-width: 400px;
+    max-width: 440px;
   }
 }
 
@@ -199,7 +202,7 @@ footer {
   }
 
   .slider-img {
-    max-width: 260px;
+    max-width: 300px;
   }
 }
 
@@ -222,6 +225,6 @@ footer {
   }
 
   .slider-img {
-    max-width: 240px;
+    max-width: 260px;
   }
 }
